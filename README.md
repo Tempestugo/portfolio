@@ -49,3 +49,4 @@
 - GitHub: https://github.com/Tempestugo
 - Hugging Face: https://huggingface.co/spaces/Tempestugo
 - Plataforma CACD: https://lumuscacd.com.br
+- Blog sobre Café: https://coffeture.com/
