@@ -21,18 +21,30 @@
 
 ## IA e Dados
 
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-555555?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-
-Experiência com:
-- Implementação de pipelines RAG
-- Vetorização de documentos e recuperação semântica
-- Modelos de machine learning com PyTorch
+![Embeddings](https://img.shields.io/badge/Embeddings-4B5563?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-0F172A?style=for-the-badge)
 
 ---
+
+## Também utilizei
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## Interface
+
+![Dynamic UI](https://img.shields.io/badge/UI%20com%20dados%20din%C3%A2micos-2563EB?style=for-the-badge)
+
 
 ## Projetos e links
 
 - GitHub: https://github.com/Tempestugo
+- Hugging Face: //huggingface.co/spaces/Tempestugo
 - Plataforma CACD: https://lumuscacd.com.br
