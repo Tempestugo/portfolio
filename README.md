@@ -46,5 +46,5 @@
 ## Projetos e links
 
 - GitHub: https://github.com/Tempestugo
-- Hugging Face: //huggingface.co/spaces/Tempestugo
+- Hugging Face: huggingface.co/spaces/Tempestugo
 - Plataforma CACD: https://lumuscacd.com.br
